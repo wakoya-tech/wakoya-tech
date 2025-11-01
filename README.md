@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Wakoya Tech!
+# 👋 Hi, I'm Wakoya Daba!
 
 🎓 A passionate **Software Engineering student at Jimma University**  
 💻 Currently learning **Full-Stack Web Development** (HTML, CSS, JavaScript, React, Node.js)  
