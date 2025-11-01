@@ -48,6 +48,9 @@
 - 📚 **E-Library Database Design**
 - ⚙️ **CPU Scheduling Simulation**
 - 📖 **Youth Bible Study Planner**
+## 📈 My GitHub Contribution Graph
+
+![Wakoya's Contribution Graph](https://github-readme-stats.vercel.app/api?username=wakoya-tech&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 ---
 
