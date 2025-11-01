@@ -57,13 +57,45 @@
 
 ---
 
+## 💪 Skills Progress
+
+**Frontend:**  
+HTML: ████████ 90%  
+CSS: ███████ 85%  
+JavaScript: ███████ 80%  
+React: ██████ 75%  
+
+**Backend:**  
+Node.js: ██████ 70%  
+SQL: ███████ 80%  
+Git/GitHub: ███████ 85%  
+
+**Other:**  
+Theology & Apologetics: █████████ 95%  
+
+---
+
+## 🎯 Hobbies & Interests
+- 📖 Deep Bible Study & Theology  
+- 💻 Coding Challenges & Full-Stack Projects  
+- 🧩 Logic Puzzles & Problem Solving  
+- 🎵 Music & Creative Writing  
+
+---
+
 ## 📫 Connect with Me
 - 📧 Email: wakoyatech@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/wakoya-tech](https://linkedin.com/in/wakoya-tech)  
 - 🌐 Portfolio: [wakoya-tech.github.io](https://wakoya-tech.github.io) (coming soon)  
-- 🐦 Twitter: [@wakoya_tech](https://twitter.com/) (optional)  
+- 🐦 Twitter: [@wakoya_tech](https://twitter.com/)  
 
 ---
 
 ## ⭐ Quote I Live By
 *"The fear of the Lord is the beginning of wisdom." — Proverbs 9:10*
+
+---
+
+## ⚡ Fun Badge Section
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=wakoya-tech)
+![Twitter Follow](https://img.shields.io/twitter/follow/wakoya_tech?style=social)
