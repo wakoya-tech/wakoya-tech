@@ -4,7 +4,7 @@
 💻 Currently learning **Full-Stack Web Development** (HTML, CSS, JavaScript, React, Node.js)  
 📚 Exploring **Java, Data Structures, and Operating Systems**  
 🧠 Also studying **Theology, Christian Apologetics, and Church History**  
-🚀 Dreaming to become a **Skilled Full-Stack Developer** who also understands the **truth deeply**  
+🚀 Dreaming to become a **Skilled Full-Stack Developer** who also seeks to understand the **truth deeply**  
 
 ---
 
@@ -15,7 +15,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Frameworks & Tools:**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -23,15 +23,21 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Wakoya's GitHub stats](https://github-readme-stats.vercel.app/api?username=wakoya-tech&show_icons=true&theme=radical)  
+![Wakoya's GitHub stats](https://github-readme-stats.vercel.app/api?username=wakoya-tech&show_icons=true&theme=radical&count_private=true&include_all_commits=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wakoya-tech&layout=compact&theme=tokyonight)  
-![trophy](https://github-profile-trophy.vercel.app/?username=wakoya-tech&theme=onedark)
+![Trophy](https://github-profile-trophy.vercel.app/?username=wakoya-tech&theme=onedark)
+
+---
+
+## 📈 Activity Graph
+
+![Wakoya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wakoya-tech&theme=tokyo-night)
 
 ---
 
@@ -43,7 +49,7 @@
 
 ---
 
-## 🧠 Projects I'm Working On
+## 🧠 Featured Projects
 - 🧾 **Student Information System (OOSE Project)**  
 - 📚 **E-Library Database Design**  
 - ⚙️ **CPU Scheduling Simulation**  
@@ -51,27 +57,21 @@
 
 ---
 
-## 📈 GitHub Contributions
-
-![Wakoya's Contribution Graph](https://github-readme-stats.vercel.app/api?username=wakoya-tech&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-
----
-
 ## 💪 Skills Progress
 
 **Frontend:**  
-HTML: ████████ 90%  
-CSS: ███████ 85%  
-JavaScript: ███████ 80%  
-React: ██████ 75%  
+![HTML: 90%](https://img.shields.io/badge/HTML-90%25-brightgreen)
+![CSS: 85%](https://img.shields.io/badge/CSS-85%25-green)
+![JavaScript: 80%](https://img.shields.io/badge/JavaScript-80%25-yellow)
+![React: 75%](https://img.shields.io/badge/React-75%25-blue)
 
 **Backend:**  
-Node.js: ██████ 70%  
-SQL: ███████ 80%  
-Git/GitHub: ███████ 85%  
+![Node.js: 70%](https://img.shields.io/badge/Node.js-70%25-lightgrey)
+![SQL: 80%](https://img.shields.io/badge/SQL-80%25-blue)
+![Git/GitHub: 85%](https://img.shields.io/badge/GitHub-85%25-black)
 
 **Other:**  
-Theology & Apologetics: █████████ 95%  
+![Theology & Apologetics: 95%](https://img.shields.io/badge/Theology%20%26%20Apologetics-95%25-purple)
 
 ---
 
@@ -84,15 +84,15 @@ Theology & Apologetics: █████████ 95%
 ---
 
 ## 📫 Connect with Me
-- 📧 Email: wakoyatech@gmail.com  
+- 📧 Email: [wakoyatech@gmail.com](mailto:wakoyatech@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/wakoya-tech](https://linkedin.com/in/wakoya-tech)  
-- 🌐 Portfolio: [wakoya-tech.github.io](https://wakoya-tech.github.io) (coming soon)  
-- 🐦 Twitter: [@wakoya_tech](https://twitter.com/)  
+- 🌐 Portfolio: [wakoya-tech.github.io](https://wakoya-tech.github.io) *(coming soon)*  
+- 🐦 Twitter: [@wakoya_tech](https://twitter.com/wakoya_tech)  
 
 ---
 
 ## ⭐ Quote I Live By
-*"The fear of the Lord is the beginning of wisdom." — Proverbs 9:10*
+> *"The fear of the Lord is the beginning of wisdom." — Proverbs 9:10*
 
 ---
 
