@@ -1,1 +1,166 @@
-# 👋 Hi, I'm Wakoya Daba! 🎓 A passionate **Software Engineering student at Jimma University** 💻 Currently learning **Full-Stack Web Development** (HTML, CSS, JavaScript, React, Node.js) 📚 Exploring **Java, Data Structures, and Operating Systems** 🧠 Also studying **Theology, Christian Apologetics, and Church History** 🚀 Dreaming to become a **Skilled Full-Stack Developer** who also seeks to understand the **truth deeply** --- ## 🧰 Tech Stack **Languages:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) **Frameworks & Tools:** ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) --- ## 📊 GitHub Stats ![Wakoya's GitHub stats](https://github-readme-stats.vercel.app/api?username=wakoya-tech&show_icons=true&theme=radical&count_private=true&include_all_commits=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wakoya-tech&layout=compact&theme=tokyonight) ![Trophy](https://github-profile-trophy.vercel.app/?username=wakoya-tech&theme=onedark) --- ## 📈 Activity Graph ![Wakoya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wakoya-tech&theme=tokyo-night) --- ## 🌱 Currently Learning - 🔹 Front-End Frameworks: React, Tailwind CSS - 🔹 Back-End Development: Node.js, Express - 🔹 Database Design: SQL, Normalization, Query Optimization - 🔹 Advanced Theology and Christian Apologetics --- ## 🧠 Featured Projects - 🧾 **Student Information System (OOSE Project)** - 📚 **E-Library Database Design** - ⚙️ **CPU Scheduling Simulation** - 📖 **Youth Bible Study Planner** --- ## 💪 Skills Progress **Frontend:** ![HTML: 90%](https://img.shields.io/badge/HTML-90%25-brightgreen) ![CSS: 85%](https://img.shields.io/badge/CSS-85%25-green) ![JavaScript: 80%](https://img.shields.io/badge/JavaScript-80%25-yellow) ![React: 75%](https://img.shields.io/badge/React-75%25-blue) **Backend:** ![Node.js: 70%](https://img.shields.io/badge/Node.js-70%25-lightgrey) ![SQL: 80%](https://img.shields.io/badge/SQL-80%25-blue) ![Git/GitHub: 85%](https://img.shields.io/badge/GitHub-85%25-black) **Other:** ![Theology & Apologetics: 95%](https://img.shields.io/badge/Theology%20%26%20Apologetics-95%25-purple) --- ## 🎯 Hobbies & Interests - 📖 Deep Bible Study & Theology - 💻 Coding Challenges & Full-Stack Projects - 🧩 Logic Puzzles & Problem Solving - 🎵 Music & Creative Writing --- ## 📫 Connect with Me - 📧 Email: [wakoyatech@gmail.com](mailto:wakoyatech@gmail.com) - 💼 LinkedIn: [linkedin.com/in/wakoya-tech](https://linkedin.com/in/wakoya-tech) - 🌐 Portfolio: [wakoya-tech.github.io](https://wakoya-tech.github.io) *(coming soon)* - 🐦 Twitter: [@wakoya_tech](https://twitter.com/wakoya_tech) --- ## ⭐ Quote I Live By > *"The fear of the Lord is the beginning of wisdom." — Proverbs 9:10* --- ## ⚡ Fun Badge Section ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=wakoya-tech) ![Twitter Follow](https://img.shields.io/twitter/follow/wakoya_tech?style=social)
+# 👋 Hi, I'm Wakoya Daba
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=140&section=header" width="100%">
+</picture>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=750&lines=Software+Engineering+Student+%40+Jimma+University;Full-Stack+Developer+in+Progress;Java+%7C+React+%7C+Node.js;Operating+Systems+%26+Data+Structures;Theology+%26+Christian+Apologetics;Faith+%2B+Technology+%3D+Purpose" />
+</p>
+
+---
+
+## 🎓 About Me
+
+- 🎓 Software Engineering student at **Jimma University**  
+- 💻 Learning **Full-Stack Web Development** (HTML, CSS, JS, React, Node.js)  
+- ⚙️ Studying **Java, Data Structures, Operating Systems**  
+- 📖 Passionate about **Theology, Christian Apologetics & Church History**  
+- 🎯 Goal: **Build excellent software grounded in truth and wisdom**
+
+> 💡 *Great engineering requires both technical excellence and moral clarity.*
+
+---
+
+## 🧰 Tech Stack
+
+<p align="center">
+  <picture>
+    <source srcset="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,express,mysql,git,github,vscode&theme=dark" media="(prefers-color-scheme: dark)" />
+    <img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,express,mysql,git,github,vscode&theme=light" />
+  </picture>
+</p>
+
+---
+
+## 💪 Skills Progress (Animated Gradient Bars)
+
+<p align="left">HTML</p>
+<img src="https://progress-bar.dev/90/?title=HTML&color=4facfe&background=eee&animation=1" />
+
+<p align="left">CSS</p>
+<img src="https://progress-bar.dev/85/?title=CSS&color=06b6d4&background=eee&animation=1" />
+
+<p align="left">JavaScript</p>
+<img src="https://progress-bar.dev/80/?title=JS&color=f7df1e&background=eee&animation=1" />
+
+<p align="left">React</p>
+<img src="https://progress-bar.dev/75/?title=React&color=61dafb&background=eee&animation=1" />
+
+<p align="left">Node.js</p>
+<img src="https://progress-bar.dev/70/?title=Node.js&color=43853d&background=eee&animation=1" />
+
+<p align="left">Java</p>
+<img src="https://progress-bar.dev/80/?title=Java&color=ED8B00&background=eee&animation=1" />
+
+<p align="left">SQL</p>
+<img src="https://progress-bar.dev/80/?title=SQL&color=4479A1&background=eee&animation=1" />
+
+<p align="left">Theology & Apologetics</p>
+<img src="https://progress-bar.dev/95/?title=Theology&color=800080&background=eee&animation=1" />
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=wakoya-tech&show_icons=true&theme=radical&hide_border=true" media="(prefers-color-scheme: dark)" />
+    <img src="https://github-readme-stats.vercel.app/api?username=wakoya-tech&show_icons=true&theme=default&hide_border=true" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=wakoya-tech&theme=tokyonight&hide_border=true" media="(prefers-color-scheme: dark)" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wakoya-tech&theme=default&hide_border=true" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wakoya-tech&layout=compact&theme=radical&hide_border=true" media="(prefers-color-scheme: dark)" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wakoya-tech&layout=compact&theme=default&hide_border=true" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=wakoya-tech&theme=onedark" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+![Wakoya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wakoya-tech&theme=tokyo-night)
+
+---
+
+## 🌱 Currently Learning
+
+- 🔹 Front-End Frameworks: React, Tailwind CSS  
+- 🔹 Back-End Development: Node.js, Express  
+- 🔹 Database Design: SQL, Normalization, Query Optimization  
+- 🔹 Advanced Theology & Christian Apologetics  
+
+---
+
+## 🧠 Featured Projects
+
+- 🧾 **Student Information System (OOSE Project)**  
+- 📚 **E-Library Database Design**  
+- ⚙️ **CPU Scheduling Simulation**  
+- 📖 **Youth Bible Study Planner**  
+
+---
+
+## 🎯 Hobbies & Interests
+
+- 📖 Deep Bible Study & Theology  
+- 💻 Coding Challenges & Full-Stack Projects  
+- 🧩 Logic Puzzles & Problem Solving  
+- 🎵 Music & Creative Writing  
+
+---
+
+## 📫 Connect with Me
+
+- 📧 Email: [wakoyatech@gmail.com](mailto:wakoyatech@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/wakoya-tech](https://linkedin.com/in/wakoya-tech)  
+- 🌐 Portfolio: [wakoya-tech.github.io](https://wakoya-tech.github.io) *(coming soon)*  
+- 🐦 Twitter/X: [@wakoya_tech](https://twitter.com/wakoya_tech)  
+
+---
+
+## ⭐ Quote I Live By
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=2000&center=true&vCenter=true&width=600&lines=%22The+fear+of+the+Lord+is+the+beginning+of+wisdom.%22+-+Proverbs+9%3A10" />
+</p>
+
+---
+
+## ⚡ Fun Badges
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=wakoya-tech" />  
+  <img src="https://img.shields.io/twitter/follow/wakoya_tech?style=social" />
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=120&section=footer" width="100%">
+</picture>
+
+---
+
+### ✅ Fully Enhanced README Features
+
+✔ Animated header & footer  
+✔ Typing animation  
+✔ Dark/light theme support  
+✔ Tech stack & **animated gradient skill bars**  
+✔ GitHub stats, streaks & top languages  
+✔ Recruiter-ready and professional  
+✔ Faith + Engineering balanced
