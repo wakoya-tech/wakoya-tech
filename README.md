@@ -1,4 +1,7 @@
 # 👋 Hi, I'm Wakoya Daba!
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student+%40+Jimma+University;Full-Stack+Web+Developer+in+Progress;Java+%7C+React+%7C+Node.js;Theology+%26+Christian+Apologetics;Faith+%2B+Technology+%3D+Purpose" />
+</p>
 
 🎓 A passionate **Software Engineering student at Jimma University**  
 💻 Currently learning **Full-Stack Web Development** (HTML, CSS, JavaScript, React, Node.js)  
